@@ -1,2 +1,2 @@
-# 5GIRE
-Simulates 5G packet routing with a source and destination using an interference model under 5G constraint.
+# DRL_5G_Schduling
+Repo for the code of the 5G scheudling that is based on DRL.
