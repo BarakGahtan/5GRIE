@@ -1,4 +1,4 @@
-# DRL_5G_Schduling
+# 5G Scheduling
 Repo for the code of the 5G scheudling that is based on DRL.
 
 To be able to run, you should run ./bash run_script.
