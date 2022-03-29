@@ -28,7 +28,7 @@ You should define which DRL agent you wish to use in the Main_RL.py script, unde
 If you find this code useful please cite us in your work:
 @misc{https://doi.org/10.48550/arxiv.2203.14790,
   doi = {10.48550/ARXIV.2203.14790}, 
-  url = {https://arxiv.org/abs/2203.14790},
+  url = {https://arxiv.org/abs/2203.14790 },
   author = {Gahtan, Barak},
   keywords = {Networking and Internet Architecture (cs.NI), Machine Learning (cs.LG), Systems and Control (eess.SY), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering},
   title = {5G Routing Interfered Environment},
